@@ -67,3 +67,43 @@ WHATSAPP_CONFIG: {
   RECIPIENTS: 'RECIPIENT_NUMBERS',
   API_URL: 'API_ENDPOINT'
 }
+🎯 Penggunaan
+
+Buka web app
+Isi form upload:
+
+Judul arsip
+Kategori
+Tanggal
+Tags
+Pilih file (max 5)
+
+
+Klik upload
+Notifikasi akan dikirim via WhatsApp
+Gunakan halaman pencarian untuk menemukan arsip
+
+📱 Format Notifikasi WhatsApp
+Copy🏢 NOTIFIKASI ARSIP DIGITAL
+
+📅 [Tanggal dan Waktu]
+
+📋 Detail Arsip yang Diunggah:
+[Detail Dokumen]
+
+✨ Informasi Tambahan
+[Info Tambahan]
+
+🔍 Link Pencarian Arsip
+[URL Pencarian]
+
+🤝 Kontribusi
+Kontribusi selalu diterima. Silakan buat pull request atau issue untuk perbaikan dan pengembangan.
+
+📝 Lisensi
+MIT License - Silakan gunakan dan modifikasi sesuai kebutuhan.
+
+👨‍💻 Pengembang
+
+Email: kontak@classy.id
+GitHub: @classyid
